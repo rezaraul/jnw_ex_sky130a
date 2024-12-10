@@ -1,20 +1,13 @@
 library: JNW_EX_SKY130A
 cell: JNW_EX
-# Your name
 author: Reza Papi
-# Your github username
 github: rezaraul
-# Something funny and descriptive
 tagline: Skywater 130 nm tutorial
-# Your email, if you so wish
 email: reza.papi1368@gmail.com
-# Your github site, usually <github username>.github.io
-url: rezaraul.github.io
+url: 
 doc:
-  # Make docs
   libraries:
     JNW_EX_SKY130A:
       - JNW_EX
-  
 sim:
-JNW_EX: make typical
+  JNW_EX: make typical
